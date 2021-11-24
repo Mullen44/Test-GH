@@ -8,5 +8,6 @@
 import Foundation
 
 struct MyMode {
-    var name:String?
+    var name:String = "Andrew"
+    
 }
